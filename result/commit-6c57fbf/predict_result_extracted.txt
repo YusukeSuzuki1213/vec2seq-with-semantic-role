@@ -1,0 +1,117 @@
+/*
+  下記の基準でベストなアイデア文として、出力結果の総数の半分の中から主観に基づき抽出しました。
+    ① 意味の汲み取りやすさ(日本語と英語両方を読みながら)
+    ② 新規性のあるアイデアが思い浮かんだ文章
+    (①より②に重点を置いて抽出しました)
+
+ * [predict]・・・手法2の出力
+ * [target]・・・手法1の出力
+ * [思い浮かんだアイデア]・・・自分が出力を見て思い浮かんだアイデア
+*/
+
+===
+word1: earth, word1_fe: instrument
+word2: zero, word2_fe: circumstances
+[predict]
+the pediment or or on the system from the earth center that the earth appeared to zero done <EOS>
+[target]
+this also explains why the style of the plague often gives the impression distance of earth radii distance from zero
+
+word1：地球、word1_fe：楽器
+word2：ゼロ、word2_fe：状況
+[予測]
+地球がゼロになったように見えるペディメントまたは地球の中心からのシステム上<EOS>
+[目標]
+これはまた、ペストのスタイルがしばしばゼロからの地球半径距離の印象距離を与える理由を説明します
+
+
+[思い浮かんだアイデア]
+  [predictの出力文より]: 地球をパンを伸ばすときに使う棒で、くるくると細長くし、それを数字の０のように輪っかを作る(しっかり地球の色付けをする）。それを白一色の西洋建築におけるペディメントの中心におくという建築デザイン
+===
+
+
+===
+word1: car, word1_fe: result
+word2: fashion, word2_fe: place
+[predict]
+there are unk amount on a given by the fashion where musical and was less dictated by a bombing fashion to fashion right <EOS>
+[target]
+of underground car parking and separate lifts and stairs for the owners and their servants fashion partially financed with rosenwald funds
+
+word1：車、word1_fe：結果
+word2：ファッション、word2_fe：場所
+[予測]
+ミュージカルであり、ファッションへの爆撃ファッションによってあまり指図されなかったファッションによって与えられた量に大量の金額があります<EOS>
+[目標]
+地下駐車場、所有者とその使用人のファッションのための個別のエレベーターと階段
+
+
+[思い浮かんだアイデア]
+  [predictの出力文より]: 既存のファッションの概念をぶち壊すように激しいパンクロックをイメージしたファッション。例えば袖がギザギザで袖がタコみたいにたくさん服から飛び出してる感じ。
+  [targetの出力文より]:  セレブが地下駐車場でのちに迫る大舞台のために、バシッと服装を決めるための個別コーディネートサービス(inspired 須藤先生)
+
+===
+
+
+===
+word1: model, word1_fe: circumstances
+word2: substance, word2_fe: expressor
+[predict]
+remain the most of substance of substance popular using the substance substance model as the model for of
+[target]
+ambergris is the waxy aromatic substance created in the intestines of sperm whales and was used in making perfumes both berlin new
+
+word1：モデル、word1_fe：状況
+word2：実体、word2_fe：表現者
+[予測]
+物質モデルを物質モデルとして使用して、物質のほとんどの物質を維持します
+[目標]
+アンバーグリスは、マッコウクジラの腸で作られたワックス状の芳香物質であり、両方のベルリンの香水を作るのに使用されました
+
+
+[思い浮かんだアイデア]
+  [targetの出力文より]: アンバーグリスと呼ばれるマッコウクジラの腸で作られたワックス状の芳香物質を、ベルリン名物のバームクーヘンの香りづけとして使用した商品を開発する
+===
+
+
+===
+word1: discussion, word1_fe: time
+word2: lift, word2_fe: means
+[predict]
+by was who had been powered lift was aerodynamic aerodynamic aerodynamic unk italiana the vessel of a discussion in office <EOS>
+[target]
+ways to produce dynamic upthrust aerodynamic lift is supposed have occurred at the height of the mycenaean civilization see discussion of troy vii
+
+
+word1：ディスカッション、word1_fe：時間
+word2：リフト、word2_fe：は
+[予測]
+空力、空力、空力、ウンク、イタリアーナは、オフィスでの議論の船<EOS>
+[目標]
+ダイナミックな推力の空気力学的揚力を生成する方法は、ミケーネ文明の最盛期に発生したと考えられています。
+
+
+[思い浮かんだアイデア]
+  [predictの出力文より]: 空を飛ぶような自由な発送をもったイタリア人を採用するとまるで航海のように楽しい議論の旅ができるよ
+===
+
+
+===
+word1: address, word1_fe: circumstances
+word2: trouble, word2_fe: explanation
+[predict]
+the national languages controversy to address the name of building trouble with trouble trouble in trouble <EOS>
+[target]
+the stage responsible depressed and full of sadness that he told his trouble to one of his friends
+
+word1：アドレス、word1_fe：状況
+word2：トラブル、word2_fe：説明
+[予測]
+トラブルのトラブルトラブルでのトラブルの名前を解決するための各国語の論争<EOS>
+[目標]
+落ち込んで悲しみに満ちた責任のあるステージは、友人の一人に悩みを語った
+
+
+[思い浮かんだアイデア]
+  [targetの出力文より]:  落ち込んで悲しみに満ちた責任のあるステージにおいて、友人の一人に悩みを語った演劇のクライマックス。
+===

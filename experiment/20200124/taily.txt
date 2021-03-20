@@ -1,0 +1,26 @@
+手法1 結果
+[relationship]
+total: 1511
+n_item: 473
+avg: 3.1945031712473573
+[understandable]
+total: 1419
+n_item: 473
+avg: 3.0
+[novelty]
+total: 1276
+n_item: 473
+avg: 2.697674418604651
+手法2 結果
+[relationship]
+total: 1276
+n_item: 473
+avg: 2.697674418604651
+[understandable]
+total: 1124
+n_item: 473
+avg: 2.376321353065539
+[novelty]
+total: 1099
+n_item: 473
+avg: 2.3234672304439745
